@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![Français](https://img.shields.io/badge/lang-fr-blue.svg)](README.fr.md)
-[![English](https://img.shields.io/badge/lang-en-red.svg)](README.md)
 
 <!--
 **maximebgd/maximebgd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
