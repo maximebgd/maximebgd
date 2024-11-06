@@ -8,7 +8,7 @@ I'm Maxime, a French student with a passion for IT security and development! I'm
 #### 🎓 Currently
 I am looking for a 4-month internship in the IT security field to put my skills into practice, discover new technical challenges, and actively contribute within a cybersecurity or even development team.
 
-<table style="border: none; width: 100%;">
+<table>
   <tr>
     <td>
 
@@ -20,7 +20,7 @@ I am looking for a 4-month internship in the IT security field to put my skills 
 
     </td>
     <td>
-      <img src="/images/images.jpeg" alt="Illustration" width="350"/>
+      <img src="/images/images.jpeg" alt="Illustration" width="30"/>
     </td>
   </tr>
 </table>
@@ -78,13 +78,12 @@ I am looking for a 4-month internship in the IT security field to put my skills 
 ## 📊 GitHub statistics :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maximebgd&show_icons=true&hide_border=true&count_private=true" alt="Statistiques GitHub de Votre Nom"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximebgd&layout=compact" alt="Langages les plus utilisés"/>
 </p>
 
 ## 🚀 My Projects
 | Project | Description |
 |--------|-------------|
-| [Dualinsa](https://github.com/maximebgd/artistify.ai) | A Web application for revising subjects using MCQs |
-| [Mini GLIBC](https://github.com/maximebgd/sheets-database) | Implementation of a C library |
+| [Dualinsa](https://github.com/SimonLeclere/dualinsa.git) | A Web application for revising subjects using MCQs |
+| [Mini GLIBC](https://github.com/maximebgd/mini_glibc.git) | Implementing a C library with a Shell to use it |
 
 
