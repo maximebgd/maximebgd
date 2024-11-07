@@ -8,7 +8,7 @@ I'm Maxime, a French student with a passion for IT security and development! I'm
 #### 🎓 Currently
 I am looking for a 4-month internship in the IT security field to put my skills into practice, discover new technical challenges, and actively contribute within a cybersecurity or even development team.
 
-<table align="center" >
+<table>
   <tr>
     <td>
 
