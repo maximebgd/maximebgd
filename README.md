@@ -80,7 +80,7 @@ I am looking for a 4-month internship in the IT security field to put my skills 
 ## 🚀 My Projects
 | Project | Description |
 |--------|-------------|
-| [Dualinsa](https://github.com/SimonLeclere/dualinsa.git) | A Web application for revising subjects using MCQs |
+| [Dualinsa]() | A Web application for revising subjects using MCQs |
 | [Mini GLIBC](https://github.com/maximebgd/mini_glibc.git) | Implementing a C library with a Shell to use it |
 
 
