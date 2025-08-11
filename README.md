@@ -6,15 +6,14 @@ I'm Maxime, a French student with a passion for IT security and development! I'm
 
 
 #### 🎓 Currently
-I am looking for a 4-month internship in the IT security field to put my skills into practice, discover new technical challenges, and actively contribute within a cybersecurity or even development team.
+I am looking for a 6-month internship in the IT security field to put my skills into practice, discover new technical challenges, and actively contribute within a cybersecurity or even development team.
 
 <table>
   <tr>
     <td>
 
 ## 🌟 More about me:
-- 🌱 I'm currently working on **dualinsa**
-- 🔥 I'm currently learning **Typescript**
+- 🌱 I'm currently working on an F1 telemetry project and developing some SaaS solutions.
 - 📫 Most of my projects are available on [GitHub](https://github.com/maximebgd)
 - 📩 Find me on [LinkedIn](https://www.linkedin.com/in/maxime-b%C3%A9goud-b9b90521a/)
 
