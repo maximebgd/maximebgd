@@ -1,21 +1,20 @@
 # Hi 👋 !
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maximebgd)](https://www.linkedin.com/in/maxime-b%C3%A9goud-b9b90521a/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maximebgd)](https://www.linkedin.com/in/maxime-bégoud-b9b90521a/)
 
-I'm Maxime, a French student with a passion for IT security and development! I'm currently studying at INSA Centre-Val de Loire, a French engineering school where I'm developing my skills.
+I'm **Maxime**, a French student at **INSA Centre-Val de Loire**, where I specialize in **cybersecurity** as part of my academic curriculum. 
 
+Beyond my studies, I am deeply passionate about **AI, LLM security, and AI integration**, and I actively explore these fields, including the **MCP protocol**, through self-training. My goal is to continuously expand my expertise, take on technical challenges, and contribute to innovative projects that push the boundaries of technology.
 
-#### 🎓 Currently
-I am looking for a 6-month internship in the IT security field to put my skills into practice, discover new technical challenges, and actively contribute within a cybersecurity or even development team.
 
 <table>
   <tr>
     <td>
 
 ## 🌟 More about me:
-- 🌱 I'm currently working on an F1 telemetry project and developing some SaaS solutions.
-- 📫 Most of my projects are available on [GitHub](https://github.com/maximebgd)
-- 📩 Find me on [LinkedIn](https://www.linkedin.com/in/maxime-b%C3%A9goud-b9b90521a/)
+- 🌱 I'm currently working on a project involving the **MCP protocol**.
+- 📫 Most of my projects are available on [GitHub](https://github.com/maximebgd).
+- 📩 Let's connect on [LinkedIn](https://www.linkedin.com/in/maxime-bégoud-b9b90521a/)!
 
     </td>
     <td>
@@ -24,9 +23,9 @@ I am looking for a 6-month internship in the IT security field to put my skills 
   </tr>
 </table>
 
-
 ## 🛠 Languages and Tools :
 <p align="left">
+  <!-- Langages et outils existants -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -70,16 +69,3 @@ I am looking for a 6-month internship in the IT security field to put my skills 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
   </a>
 </p>
-
-## 📊 GitHub statistics :
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maximebgd&show_icons=true&hide_border=true&count_private=true" alt="Statistiques GitHub de Votre Nom"/>
-</p>
-
-## 🚀 My Projects
-| Project | Description |
-|--------|-------------|
-| [Dualinsa]() | A Web application for revising subjects using MCQs |
-| [Mini GLIBC](https://github.com/maximebgd/mini_glibc.git) | Implementing a C library with a Shell to use it |
-
-
