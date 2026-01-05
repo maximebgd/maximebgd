@@ -1,8 +1,7 @@
 # Hi 👋 !
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maximebgd)](https://www.linkedin.com/in/maxime-bégoud-b9b90521a/)
-
-[![Website](https://img.shields.io/badge/-Website-0c1f36?style=flat-square&logo=Google-Chrome&logoColor=white)](https://maxime-begoud.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-0c1f36?style=flat-square&logo=internet-explorer&logoColor=white)](https://maxime-begoud.vercel.app/)
 
 I'm **Maxime**, a French student at **INSA Centre-Val de Loire**, where I specialize in **cybersecurity** as part of my academic curriculum. 
 
