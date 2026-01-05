@@ -2,6 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maximebgd)](https://www.linkedin.com/in/maxime-bégoud-b9b90521a/)
 
+[![Website](https://img.shields.io/badge/-Website-0c1f36?style=flat-square&logo=Google-Chrome&logoColor=white)](https://maxime-begoud.vercel.app/)
+
 I'm **Maxime**, a French student at **INSA Centre-Val de Loire**, where I specialize in **cybersecurity** as part of my academic curriculum. 
 
 Beyond my studies, I am deeply passionate about **AI, LLM security, and AI integration**, and I actively explore these fields, including the **MCP protocol**, through self-training. My goal is to continuously expand my expertise, take on technical challenges, and contribute to innovative projects that push the boundaries of technology.
