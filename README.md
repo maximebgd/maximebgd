@@ -16,6 +16,7 @@ Beyond my studies, I am deeply passionate about **AI, LLM security, and AI integ
 - 🌱 I'm currently working on a project involving the **MCP protocol**.
 - 📫 Most of my projects are available on [GitHub](https://github.com/maximebgd).
 - 📩 Let's connect on [LinkedIn](https://www.linkedin.com/in/maxime-bégoud-b9b90521a/)!
+- 💼 Feel free to visit my portfolio to discover more of my work [Portfolio](https://maxime-begoud.vercel.app/).
 
     </td>
     <td>
