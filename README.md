@@ -1,7 +1,7 @@
 # Hi 👋 !
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maximebgd)](https://www.linkedin.com/in/maxime-bégoud-b9b90521a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-0c1f36?style=flat-square&logo=internet-explorer&logoColor=white)](https://maxime-begoud.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-0c1f36?style=flat-square&logo=internet-explorer&logoColor=white)](https://maxime.begoud.fr/)
 
 I'm **Maxime**, a French student at **INSA Centre-Val de Loire**, where I specialize in **cybersecurity** as part of my academic curriculum. 
 
@@ -16,7 +16,7 @@ Beyond my studies, I am deeply passionate about **AI, LLM security, and AI integ
 - 🌱 I'm currently working on a project involving the **MCP protocol**.
 - 📫 Most of my projects are available on [GitHub](https://github.com/maximebgd).
 - 📩 Let's connect on [LinkedIn](https://www.linkedin.com/in/maxime-bégoud-b9b90521a/)!
-- 💼 Feel free to visit my portfolio to discover more of my work [Portfolio](https://maxime-begoud.vercel.app/).
+- 💼 Feel free to visit my portfolio to discover more of my work [Portfolio](https://maxime.begoud.fr/).
 
     </td>
     <td>
