@@ -17,11 +17,12 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="460px" fill="#f6f8fa" rx="15"/>
 <text fill="#1f2328" class="ascii">
-<tspan text-anchor="start" x="49" y="155">   __  __   ____</tspan>
-<tspan text-anchor="start" x="49" y="175">  |  \/  | | __ )</tspan>
-<tspan text-anchor="start" x="49" y="195">  | |\/| | |  _ \</tspan>
-<tspan text-anchor="start" x="49" y="215">  | |  | | | |_) |</tspan>
-<tspan text-anchor="start" x="49" y="235">  |_|  |_| |____/</tspan>
+<tspan text-anchor="middle" x="145" y="155"> ███╗   ███╗ ██████╗ </tspan>
+<tspan text-anchor="middle" x="145" y="175"> ████╗ ████║ ██╔══██╗</tspan>
+<tspan text-anchor="middle" x="145" y="195"> ██╔████╔██║ ██████╔╝</tspan>
+<tspan text-anchor="middle" x="145" y="215"> ██║╚██╔╝██║ ██╔══██╗</tspan>
+<tspan text-anchor="middle" x="145" y="235"> ██║ ╚═╝ ██║ ██████╔╝</tspan>
+<tspan text-anchor="middle" x="145" y="255"> ╚═╝     ╚═╝ ╚═════╝ </tspan>
 <tspan text-anchor="middle" x="145" y="275">maxime begoud</tspan>
 <tspan text-anchor="middle" x="145" y="295">————————————————————</tspan>
 <tspan text-anchor="middle" x="145" y="315">Applied AI Engineer</tspan>
